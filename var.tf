@@ -2,7 +2,7 @@ variable "region" {
   default = "us-east-1"
 }
 variable "secgroupid" {
-  default = "sg-011f1f2cc3cf61f1d"
+  default = ""
 }
 variable "description" {
   default = "camefromvarfile ss"
